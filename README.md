@@ -1,3 +1,14 @@
+FOR THREADING:
+
+I've added comments to the files I've been in. They are:
+wizard_gui.py
+adialog_new.py
+thread.py (purely for reference, and to see what was done in the past)
+threadControl.py
+
+
+Other items below (nri general, already on the nri)
+
 These are the updated files for running the Wizard of Oz experiments.
 
 1. Turn on Nico and wait for it to start.
